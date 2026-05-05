@@ -24,3 +24,4 @@ Prague
 Miami
 Amsterdam
 Las Vegas
+Shanghai
