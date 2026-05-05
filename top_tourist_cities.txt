@@ -32,3 +32,4 @@ Madrid
 Orlando
 Berlin
 Vienna
+Johannesburg
