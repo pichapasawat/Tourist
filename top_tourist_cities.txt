@@ -48,3 +48,4 @@ Kyoto
 Hanoi
 Danang
 Okinawa
+Toronto
