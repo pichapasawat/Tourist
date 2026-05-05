@@ -20,3 +20,4 @@ Bali
 Hong Kong
 Taipei
 Guangzhou
+Prague
