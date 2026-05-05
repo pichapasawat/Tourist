@@ -42,3 +42,4 @@ Agra
 Mumbai
 Jaipur
 Shenzhen
+Macau
