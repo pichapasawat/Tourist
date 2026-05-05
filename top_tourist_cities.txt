@@ -89,3 +89,4 @@ Muscat
 Amman
 Jerusalem
 Tel Aviv
+Manila
