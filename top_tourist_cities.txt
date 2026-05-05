@@ -43,3 +43,4 @@ Mumbai
 Jaipur
 Shenzhen
 Macau
+Beijing
