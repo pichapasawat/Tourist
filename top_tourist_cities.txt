@@ -52,3 +52,4 @@ Toronto
 San Francisco
 Sydney
 Melbourne
+Vancouver
