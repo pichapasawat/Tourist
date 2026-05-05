@@ -26,3 +26,4 @@ Amsterdam
 Las Vegas
 Shanghai
 Los Angeles
+Rome
