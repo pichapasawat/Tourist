@@ -79,3 +79,4 @@ Buenos Aires
 Rio de Janeiro
 Sao Paulo
 Santiago
+Bogota
