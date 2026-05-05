@@ -25,3 +25,4 @@ Miami
 Amsterdam
 Las Vegas
 Shanghai
+Los Angeles
