@@ -76,3 +76,4 @@ Bucharest
 Sofia
 Lima
 Buenos Aires
+Rio de Janeiro
