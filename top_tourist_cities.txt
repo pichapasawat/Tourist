@@ -63,3 +63,4 @@ Munich
 Athens
 Edinburgh
 Copenhagen
+Stockholm
