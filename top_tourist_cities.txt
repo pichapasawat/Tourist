@@ -62,3 +62,4 @@ Dublin
 Munich
 Athens
 Edinburgh
+Copenhagen
