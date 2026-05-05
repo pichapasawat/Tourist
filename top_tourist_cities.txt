@@ -61,3 +61,4 @@ Lisbon
 Dublin
 Munich
 Athens
+Edinburgh
