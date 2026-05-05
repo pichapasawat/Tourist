@@ -68,3 +68,4 @@ Oslo
 Helsinki
 Zurich
 Geneva
+Brussels
