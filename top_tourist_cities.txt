@@ -45,3 +45,4 @@ Shenzhen
 Macau
 Beijing
 Kyoto
+Hanoi
