@@ -67,3 +67,4 @@ Stockholm
 Oslo
 Helsinki
 Zurich
+Geneva
