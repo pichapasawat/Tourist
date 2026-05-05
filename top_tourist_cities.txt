@@ -64,3 +64,4 @@ Athens
 Edinburgh
 Copenhagen
 Stockholm
+Oslo
