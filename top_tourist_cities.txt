@@ -6,3 +6,4 @@ Singapore
 Kuala Lumpur
 New York
 Istanbul
+Tokyo
