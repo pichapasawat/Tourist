@@ -93,3 +93,4 @@ Manila
 Cebu
 Jakarta
 Auckland
+Queenstown
